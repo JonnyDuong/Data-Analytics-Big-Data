@@ -2,17 +2,23 @@
 Linear classification algorithms
 
 Assignment 1
+
 Question 1 – Using the Excel file dataA.xlsx, which contains a 500x3 data matrix (500 data points with 3 attributes), calculate both the mean and the covariance matrix.
+
 Question 2 - Using the Excel file dataB.xlsx, which contains a 500x10 data matrix (500 data points with 10 attributes), calculate both the mean and the covariance matrix.
+
 Question 3 – The data generated is random and normally distributed with a mean for dataA, dataB and covariance for dataA and dataB given in meanA.xlsx, meanB.xlsx, covarianceA.xlsx and covarianceB.xlsx respectively. Briefly explain why your answers are different from the parameters used to generate the data.
 
 Assignment 3
+
 Question 1:
 Calculate the 6 multivariate regression parameters B0, B1, B2, B3 and B4, B5 for the data in RegressionData.xlsx where the input data X is on sheet 1 and the output data y is on sheet 2.
 
 Assignment 4
+
 Question 1. 
 Using the multivariate data in the file fld1.xlsx:
+
 (a)	determine the discriminant line found by Fishers Linear Discriminant.
 
 (b)	Plot both the data and the discriminant line on a scatter plot 
