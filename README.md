@@ -14,8 +14,11 @@ Assignment 4
 Question 1. 
 Using the multivariate data in the file fld1.xlsx:
 (a)	determine the discriminant line found by Fishers Linear Discriminant.
+
 (b)	Plot both the data and the discriminant line on a scatter plot 
+
 (c)	Using this line, determine the class of each of the data points in the dataset, assuming that the threshold is 0 (i.e. positive values are in one class and negative values in the other).  
+
 (d)	Determine what percentage of data points are incorrectly classified. 
 
 NOTE: The first 2 columns in fld1.xlsx are data columns. The third column is the class to which each data point belongs.
